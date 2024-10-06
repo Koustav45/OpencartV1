@@ -1,0 +1,49 @@
+2024-09-28 22:28:01.798 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\acer\eclipse-workspace\OpencartV1\grouping.xml
+
+2024-09-28 22:28:04.284 [main] INFO  testcases.TC001_AccountRegistrationTest - *****Starting AccountRegistrationTest*******
+2024-09-28 22:28:04.350 [main] INFO  testcases.TC001_AccountRegistrationTest - ****clicked on my account link****
+2024-09-28 22:28:04.673 [main] INFO  testcases.TC001_AccountRegistrationTest - ****clicked on register link****
+2024-09-28 22:28:04.675 [main] INFO  testcases.TC001_AccountRegistrationTest - ****providing customer details***
+2024-09-28 22:30:03.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\acer\eclipse-workspace\OpencartV1\grouping.xml
+
+2024-09-28 22:30:05.621 [main] INFO  testcases.TC001_AccountRegistrationTest - *****Starting AccountRegistrationTest*******
+2024-09-28 22:30:05.886 [main] INFO  testcases.TC001_AccountRegistrationTest - ****clicked on my account link****
+2024-09-28 22:30:06.221 [main] INFO  testcases.TC001_AccountRegistrationTest - ****clicked on register link****
+2024-09-28 22:30:06.223 [main] INFO  testcases.TC001_AccountRegistrationTest - ****providing customer details***
+2024-09-28 22:35:53.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\acer\eclipse-workspace\OpencartV1\master.xml
+
+2024-09-28 22:35:56.335 [main] INFO  testcases.TC001_AccountRegistrationTest - *****Starting AccountRegistrationTest*******
+2024-09-28 22:35:56.557 [main] INFO  testcases.TC001_AccountRegistrationTest - ****clicked on my account link****
+2024-09-28 22:35:56.968 [main] INFO  testcases.TC001_AccountRegistrationTest - ****clicked on register link****
+2024-09-28 22:35:56.970 [main] INFO  testcases.TC001_AccountRegistrationTest - ****providing customer details***
+2024-10-05 13:56:37.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\acer\eclipse-workspace\OpencartV1\master.xml
+
+2024-10-06 00:30:35.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.664 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-06 00:30:35.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.667 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.667 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-10-06 00:30:35.681 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-10-06 00:30:35.682 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.682 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.683 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.683 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.685 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.685 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.685 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.686 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.687 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.688 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.688 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.688 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.688 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

@@ -1,0 +1,15 @@
+2024-10-06 00:30:35.689 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.694 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.694 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.694 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:30:35.694 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:30:35.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\acer\AppData\Local\Temp\testng-eclipse--257302221\testng-customsuite.xml
+
+2024-10-06 00:30:35.715 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-10-06 00:30:35.871 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@16423501: 67 ms
+2024-10-06 00:30:35.883 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@21d5c1a0: 12 ms
+2024-10-06 00:30:35.900 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4cc547a: 16 ms
+2024-10-06 00:30:35.913 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@780ec4a5: 13 ms
+2024-10-06 00:30:35.927 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3dd69f5a: 13 ms
+2024-10-06 00:30:35.927 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3aa3193a: 0 ms
